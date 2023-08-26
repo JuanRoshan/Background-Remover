@@ -1,0 +1,12 @@
+av==10.0.0
+opencv_python==4.8.0.76
+opencv_python_headless==4.8.0.76
+pandas==2.0.3
+Pillow==9.5.0
+Pillow==10.0.0
+plotly_express==0.4.1
+rembg==2.0.50
+streamlit==1.25.0
+streamlit_image_comparison==0.0.4
+streamlit_webrtc==0.47.0
+~treamlit==1.24.1
